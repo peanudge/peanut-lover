@@ -18,7 +18,7 @@ I've tried many languages, but JavaScript is my personal favourite. Very simple 
 
 - Woowahan tech Camp 4 (Fullstack position) 2021.06 ~ 2021.08
 
-| Active     |                    Repository                     |
+| Name     |                    Repository                     |
 | :---------------- | :-----------------------------------------------: |
 | Woowahan Store    |  https://github.com/woowa-techcamp-2021/store-5   |
 | Woowahan CashBook | https://github.com/woowa-techcamp-2021/cashbook-5 |
