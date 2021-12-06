@@ -16,6 +16,8 @@ I've tried many languages, but JavaScript is my personal favourite. Very simple 
 
 - RobotsAndDesign 2020.04 ~ 2021.04
 
+Develop 4 axis automation robot software with `ASP.NET Core`, `WPF(Windown Presenstaion Framework)`
+
 - Woowahan tech Camp 4 (Fullstack position) 2021.06 ~ 2021.08
 
 | Name     |                    Repository                     |
