@@ -10,7 +10,7 @@
 
 ## Javascript Fullstack Developer
 
-I've tried many languages, but JavaScript is my personal favourite. Very simple and useful.
+I've tried many languages, but JavaScript is my personal favorite. Very simple and useful.
 
 ## Activity
 
