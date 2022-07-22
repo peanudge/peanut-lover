@@ -11,7 +11,7 @@
 
 ## Javascript Fullstack Developer
 
-I've tried many languages, but JavaScript is my personal favorite. Very simple and useful.
+I prefer using functional programming, OOP, Node.js ecosystem, TDD. and i`m interested in several data technologies(Data Scientist, Tensorflow.js)
 
 ## Activity
 
