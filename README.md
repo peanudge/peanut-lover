@@ -28,3 +28,10 @@ Develop 4 axis automation robot software with `ASP.NET Core`, `WPF(Windown Prese
 
 - Miso Inc. ~~React Native Developer~~ Web Fullstack Developer and React Native Developer 2021.12.27 ~ (Now)
 
+- Inner Circle Study 2022.12 ~ 2023.02
+
+| Name     |                    Repository                     |
+| :---------------- | :-----------------------------------------------: |
+| [Component Tracking Webpack Plugin](https://peanut-lover.github.io/component-tracking-with-ast)| https://github.com/InnerCircleA/design-system-monitoring/tree/main/packages/component-tracking-plugin |
+
+
