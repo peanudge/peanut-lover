@@ -16,9 +16,9 @@ And i`m oriented fullstack with serveless services(ex. AWS Amplify).
 
 Develop 4 axis automation robot software with `ASP.NET Core`, `WPF(Windown Presenstaion Framework)`
 
-- Woowahan tech Camp 4 (Fullstack position) 2021.06 ~ 2021.08 
+- Woowahan tech Camp 4 (Web Fullstack) 2021.06 ~ 2021.08 
 
 - Miso Inc. ~~React Native Developer~~ Web Fullstack Developer and React Native Developer 2021.12.27 ~ 2023.01.04
  
-- Celltic 2023.04 ~
+- Celltic (C#, ReactJS Web Fullstack) 2023.04.17(Start) ~~ 🤖
 
