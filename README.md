@@ -20,5 +20,5 @@ Develop 4 axis automation robot software with `ASP.NET Core`, `WPF(Windown Prese
 
 - Miso Inc. ~~React Native Developer~~ Web Fullstack Developer and React Native Developer 2021.12.27 ~ 2023.01.04
  
-- RobotsAndDesign 2023.04 ~
+- Celltic 2023.04 ~
 
